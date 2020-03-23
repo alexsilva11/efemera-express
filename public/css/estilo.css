@@ -40,3 +40,8 @@ h3 {
     background-color: #FFA000;
     border-color: #FFA000;
 }
+
+#banner img {
+    width: 1920px;
+    height: 450px;
+}
